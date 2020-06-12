@@ -3,10 +3,10 @@
 ## 使用方法
 
 ### 安装
-> npm install js-excel-export --save
+> npm install simple-export-excel-js --save
 
 ```javascript
-import excelExport from "js-excel-export";
+import excelExport from "simple-export-excel-js";
 
 const excelData = [
     [

@@ -1,18 +1,16 @@
 {
-  "name": "js-excel-export",
-  "version": "1.0.9",
-  "description": "js导出excel",
+  "name": "simple-export-excel-js",
+  "version": "0.0.2",
+  "description": "export excel",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "excel",
-    "js-excel",
-    "export-excel",
-    "js-export-excel"
+    "export-excel"
   ],
-  "author": "刘玄清",
+  "author": "zwcong",
   "license": "ISC",
   "devDependencies": {
   },
@@ -23,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxqsdau/js-excel-export.git"
+    "url": "git+https://github.com/congzhiwei/excel-export.git"
   },
   "bugs": {
-    "url": "https://github.com/lxqsdau/js-excel-export/issues"
+    "url": "https://github.com/congzhiwei/excel-export/issues"
   },
-  "homepage": "https://github.com/lxqsdau/js-excel-export#readme"
+  "homepage": "https://github.com/congzhiwei/excel-export#readme"
 }
